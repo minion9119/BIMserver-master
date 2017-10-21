@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: tomcat8
+Build-Jdk: 1.8.0_102
+Main-Class: org.bimserver.starter.Starter
+Real-Main-Class: org.bimserver.JarBimServer
+
